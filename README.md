@@ -24,4 +24,4 @@ bundle install
 rails s
 ```
 
-> Tips: you can use `-b` with your **IP**, `-p` with your **PORT**
+> Tips: you can use `-b 127.0.0.1` with your **IP**, `-p 8080` with your **PORT**
